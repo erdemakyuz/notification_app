@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\drawable_launch_background.xml.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-mdpi_launch_image.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-mdpi\\launch_image.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.example.notification_app-merged_res-8:/drawable-hdpi_launch_image.png.flat",
+        "source": "com.example.notification_app-main-1:/drawable-hdpi/launch_image.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-mdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-xhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-xhdpi_launch_image.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-xhdpi\\launch_image.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-xxxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-xxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-anydpi-v26_launch_image.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-anydpi-v26\\launch_image.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-hdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-hdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-xxxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.example.notification_app-merged_res-8:/drawable_launch_background.xml.flat",
+        "source": "com.example.notification_app-main-1:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-hdpi_launch_image.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-hdpi\\launch_image.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-xxxhdpi_launch_image.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-xxxhdpi\\launch_image.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-xxhdpi_launch_image.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-xxhdpi\\launch_image.png"
+    },
+    {
+        "merged": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-merged_res-8:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\erdemakyuz\\.gradle\\daemon\\7.5\\com.example.notification_app-main-1:\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
